@@ -1,0 +1,268 @@
+= Starting Hands =
+Computer: [2, 3]
+Randy: [1, 3]
+
+= Player Moves =
+Computer: Stand
+Randy: Discard a (3)
+
+= Closing Hands =
+Computer: [2, 3]
+Randy: [1, 2]
+
+[2, 3] versus [1, 2] Computer wins!
+= Starting Hands =
+Randy: [2, 2]
+Computer: [1, 2]
+
+= Player Moves =
+Randy: Discard a (2)
+Computer: Discard a (1)
+
+= Closing Hands =
+Randy: [2, 1]
+Computer: [2, 1]
+
+[2, 1] versus [2, 1] DRAW
+= Starting Hands =
+Computer: [2, 1]
+Randy: [3, 1]
+
+= Player Moves =
+Computer: Discard a (1)
+Randy: Stand
+
+= Closing Hands =
+Computer: [2, 3]
+Randy: [3, 1]
+
+[2, 3] versus [3, 1] Computer wins!
+= Starting Hands =
+Randy: [2, 1]
+Computer: [2, 3]
+
+= Player Moves =
+Randy: Stand
+Computer: Stand
+
+= Closing Hands =
+Randy: [2, 1]
+Computer: [2, 3]
+
+[2, 1] versus [2, 3] Computer wins!
+= Starting Hands =
+Computer: [2, 1]
+Randy: [2, 1]
+
+= Player Moves =
+Computer: Discard a (1)
+Randy: Discard a (2)
+
+= Closing Hands =
+Computer: [2, 1]
+Randy: [1, 3]
+
+[2, 1] versus [1, 3] Randy wins!
+= Starting Hands =
+Randy: [2, 1]
+Computer: [1, 2]
+
+= Player Moves =
+Randy: Discard a (1)
+Computer: Discard a (1)
+
+= Closing Hands =
+Randy: [2, 3]
+Computer: [2, 1]
+
+[2, 3] versus [2, 1] Randy wins!
+= Starting Hands =
+Computer: [2, 2]
+Randy: [2, 1]
+
+= Player Moves =
+Computer: Stand
+Randy: Discard a (2)
+
+= Closing Hands =
+Computer: [2, 2]
+Randy: [1, 3]
+
+[2, 2] versus [1, 3] Computer wins!
+= Starting Hands =
+Randy: [3, 3]
+Computer: [3, 1]
+
+= Player Moves =
+Randy: Stand
+Computer: Discard a (1)
+
+= Closing Hands =
+Randy: [3, 3]
+Computer: [3, 1]
+
+[3, 3] versus [3, 1] Randy wins!
+= Starting Hands =
+Computer: [3, 1]
+Randy: [3, 1]
+
+= Player Moves =
+Computer: Discard a (1)
+Randy: Stand
+
+= Closing Hands =
+Computer: [3, 1]
+Randy: [3, 1]
+
+[3, 1] versus [3, 1] DRAW
+= Starting Hands =
+Randy: [2, 1]
+Computer: [1, 3]
+
+= Player Moves =
+Randy: Discard a (1)
+Computer: Discard a (1)
+
+= Closing Hands =
+Randy: [2, 2]
+Computer: [3, 3]
+
+[2, 2] versus [3, 3] Computer wins!
+= Starting Hands =
+Computer: [2, 1]
+Randy: [1, 2]
+
+= Player Moves =
+Computer: Discard a (1)
+Randy: Discard a (2)
+
+= Closing Hands =
+Computer: [2, 3]
+Randy: [1, 3]
+
+[2, 3] versus [1, 3] Computer wins!
+= Starting Hands =
+Randy: [1, 2]
+Computer: [1, 2]
+
+= Player Moves =
+Randy: Discard a (1)
+Computer: Discard a (1)
+
+= Closing Hands =
+Randy: [2, 1]
+Computer: [2, 3]
+
+[2, 1] versus [2, 3] Computer wins!
+= Starting Hands =
+Computer: [1, 2]
+Randy: [1, 3]
+
+= Player Moves =
+Computer: Discard a (1)
+Randy: Discard a (3)
+
+= Closing Hands =
+Computer: [2, 3]
+Randy: [1, 2]
+
+[2, 3] versus [1, 2] Computer wins!
+= Starting Hands =
+Randy: [2, 1]
+Computer: [1, 3]
+
+= Player Moves =
+Randy: Stand
+Computer: Discard a (1)
+
+= Closing Hands =
+Randy: [2, 1]
+Computer: [3, 3]
+
+[2, 1] versus [3, 3] Computer wins!
+= Starting Hands =
+Computer: [3, 1]
+Randy: [3, 3]
+
+= Player Moves =
+Computer: Discard a (1)
+Randy: Stand
+
+= Closing Hands =
+Computer: [3, 2]
+Randy: [3, 3]
+
+[3, 2] versus [3, 3] Randy wins!
+= Starting Hands =
+Randy: [1, 2]
+Computer: [1, 2]
+
+= Player Moves =
+Randy: Discard a (1)
+Computer: Discard a (1)
+
+= Closing Hands =
+Randy: [2, 3]
+Computer: [2, 3]
+
+[2, 3] versus [2, 3] DRAW
+= Starting Hands =
+Computer: [3, 1]
+Randy: [2, 3]
+
+= Player Moves =
+Computer: Discard a (1)
+Randy: Discard a (2)
+
+= Closing Hands =
+Computer: [3, 3]
+Randy: [3, 1]
+
+[3, 3] versus [3, 1] Computer wins!
+= Starting Hands =
+Randy: [3, 3]
+Computer: [2, 1]
+
+= Player Moves =
+Randy: Discard a (3)
+Computer: Discard a (1)
+
+= Closing Hands =
+Randy: [3, 2]
+Computer: [2, 1]
+
+[3, 2] versus [2, 1] Randy wins!
+= Starting Hands =
+Computer: [2, 1]
+Randy: [3, 1]
+
+= Player Moves =
+Computer: Discard a (1)
+Randy: Discard a (1)
+
+= Closing Hands =
+Computer: [2, 3]
+Randy: [3, 2]
+
+[2, 3] versus [3, 2] DRAW
+= Starting Hands =
+Randy: [3, 1]
+Computer: [1, 2]
+
+= Player Moves =
+Randy: Stand
+Computer: Discard a (1)
+
+= Closing Hands =
+Randy: [3, 1]
+Computer: [2, 1]
+
+[3, 1] versus [2, 1] Randy wins!
+
+State probabilities:
+(1, 2) => 0.0008
+(1, 3) => 0.1
+(1,) => 0.5
+(2,) => 0.9
+(3,) => 0.996
+(2, 3) => 0.1999936

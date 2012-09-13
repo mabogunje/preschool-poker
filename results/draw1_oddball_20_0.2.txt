@@ -1,0 +1,268 @@
+= Starting Hands =
+Computer: [3, 3]
+OddBall: [2, 2]
+
+= Player Moves =
+Computer: Stand
+OddBall: Stand
+
+= Closing Hands =
+Computer: [3, 3]
+OddBall: [2, 2]
+
+[3, 3] versus [2, 2] Computer wins!
+= Starting Hands =
+OddBall: [3, 2]
+Computer: [1, 3]
+
+= Player Moves =
+OddBall: Discard a (3)
+Computer: Discard a (1)
+
+= Closing Hands =
+OddBall: [2, 2]
+Computer: [3, 1]
+
+[2, 2] versus [3, 1] OddBall wins!
+= Starting Hands =
+Computer: [1, 2]
+OddBall: [3, 1]
+
+= Player Moves =
+Computer: Discard a (1)
+OddBall: Discard a (1)
+
+= Closing Hands =
+Computer: [2, 3]
+OddBall: [3, 2]
+
+[2, 3] versus [3, 2] DRAW
+= Starting Hands =
+OddBall: [2, 2]
+Computer: [1, 3]
+
+= Player Moves =
+OddBall: Stand
+Computer: Discard a (1)
+
+= Closing Hands =
+OddBall: [2, 2]
+Computer: [3, 1]
+
+[2, 2] versus [3, 1] OddBall wins!
+= Starting Hands =
+Computer: [2, 1]
+OddBall: [3, 3]
+
+= Player Moves =
+Computer: Discard a (1)
+OddBall: Discard a (3)
+
+= Closing Hands =
+Computer: [2, 1]
+OddBall: [3, 2]
+
+[2, 1] versus [3, 2] OddBall wins!
+= Starting Hands =
+OddBall: [2, 1]
+Computer: [1, 2]
+
+= Player Moves =
+OddBall: Discard a (1)
+Computer: Discard a (1)
+
+= Closing Hands =
+OddBall: [2, 2]
+Computer: [2, 3]
+
+[2, 2] versus [2, 3] OddBall wins!
+= Starting Hands =
+Computer: [3, 2]
+OddBall: [3, 2]
+
+= Player Moves =
+Computer: Stand
+OddBall: Discard a (3)
+
+= Closing Hands =
+Computer: [3, 2]
+OddBall: [2, 1]
+
+[3, 2] versus [2, 1] Computer wins!
+= Starting Hands =
+OddBall: [2, 1]
+Computer: [3, 3]
+
+= Player Moves =
+OddBall: Discard a (1)
+Computer: Stand
+
+= Closing Hands =
+OddBall: [2, 1]
+Computer: [3, 3]
+
+[2, 1] versus [3, 3] Computer wins!
+= Starting Hands =
+Computer: [1, 1]
+OddBall: [2, 3]
+
+= Player Moves =
+Computer: Stand
+OddBall: Discard a (3)
+
+= Closing Hands =
+Computer: [1, 1]
+OddBall: [2, 2]
+
+[1, 1] versus [2, 2] OddBall wins!
+= Starting Hands =
+OddBall: [2, 3]
+Computer: [1, 1]
+
+= Player Moves =
+OddBall: Discard a (3)
+Computer: Stand
+
+= Closing Hands =
+OddBall: [2, 2]
+Computer: [1, 1]
+
+[2, 2] versus [1, 1] OddBall wins!
+= Starting Hands =
+Computer: [1, 3]
+OddBall: [1, 2]
+
+= Player Moves =
+Computer: Discard a (1)
+OddBall: Discard a (1)
+
+= Closing Hands =
+Computer: [3, 3]
+OddBall: [2, 2]
+
+[3, 3] versus [2, 2] Computer wins!
+= Starting Hands =
+OddBall: [3, 3]
+Computer: [1, 1]
+
+= Player Moves =
+OddBall: Discard a (3)
+Computer: Stand
+
+= Closing Hands =
+OddBall: [3, 3]
+Computer: [1, 1]
+
+[3, 3] versus [1, 1] OddBall wins!
+= Starting Hands =
+Computer: [2, 2]
+OddBall: [1, 1]
+
+= Player Moves =
+Computer: Stand
+OddBall: Discard a (1)
+
+= Closing Hands =
+Computer: [2, 2]
+OddBall: [1, 2]
+
+[2, 2] versus [1, 2] Computer wins!
+= Starting Hands =
+OddBall: [2, 2]
+Computer: [1, 3]
+
+= Player Moves =
+OddBall: Stand
+Computer: Discard a (1)
+
+= Closing Hands =
+OddBall: [2, 2]
+Computer: [3, 1]
+
+[2, 2] versus [3, 1] OddBall wins!
+= Starting Hands =
+Computer: [1, 3]
+OddBall: [1, 2]
+
+= Player Moves =
+Computer: Discard a (1)
+OddBall: Discard a (1)
+
+= Closing Hands =
+Computer: [3, 2]
+OddBall: [2, 1]
+
+[3, 2] versus [2, 1] Computer wins!
+= Starting Hands =
+OddBall: [2, 2]
+Computer: [1, 2]
+
+= Player Moves =
+OddBall: Stand
+Computer: Discard a (1)
+
+= Closing Hands =
+OddBall: [2, 2]
+Computer: [2, 1]
+
+[2, 2] versus [2, 1] OddBall wins!
+= Starting Hands =
+Computer: [2, 3]
+OddBall: [1, 3]
+
+= Player Moves =
+Computer: Stand
+OddBall: Discard a (1)
+
+= Closing Hands =
+Computer: [2, 3]
+OddBall: [3, 3]
+
+[2, 3] versus [3, 3] OddBall wins!
+= Starting Hands =
+OddBall: [2, 1]
+Computer: [1, 3]
+
+= Player Moves =
+OddBall: Discard a (1)
+Computer: Discard a (1)
+
+= Closing Hands =
+OddBall: [2, 3]
+Computer: [3, 3]
+
+[2, 3] versus [3, 3] Computer wins!
+= Starting Hands =
+Computer: [1, 1]
+OddBall: [3, 3]
+
+= Player Moves =
+Computer: Stand
+OddBall: Discard a (3)
+
+= Closing Hands =
+Computer: [1, 1]
+OddBall: [3, 2]
+
+[1, 1] versus [3, 2] Computer wins!
+= Starting Hands =
+OddBall: [2, 1]
+Computer: [2, 3]
+
+= Player Moves =
+OddBall: Discard a (1)
+Computer: Stand
+
+= Closing Hands =
+OddBall: [2, 1]
+Computer: [2, 3]
+
+[2, 1] versus [2, 3] Computer wins!
+
+State probabilities:
+(1, 2) => 0.32
+(1, 3) => 0.256
+(1,) => 0.4048
+(2,) => 0.6
+(3,) => 0.7952
+(2, 3) => 0.59424
